@@ -25,6 +25,10 @@ Handling of missing values and data validation
 
 Basic statistical overview and data distribution analysis
 
+## 📊 Live Dashboard
+
+[![Titanic Dashboard](/Users/Asus/Classe16/Boolean/Porfolios/titanic_passengers_analysis/Charts/titanic_passengers_analysis_dashboard.pgn)](https://lookerstudio.google.com/reporting/0a242be5-0b94-434e-a59d-47b814aff005)
+
 ## Key Analysis Areas
 Survival Patterns: Examination of factors related to passenger survival rates
 
